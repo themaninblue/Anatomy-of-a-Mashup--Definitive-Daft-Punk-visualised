@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'BN';
+	src: url('bn.eot');
+	src: url('bn.eot?#iefix') format('embedded-opentype'),
+		url('bn.woff') format('woff'),
+		url('bn.ttf') format('truetype'),
+		url('bn.svg#BigNoodleTitlingRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'U';
+	src: url('u.eot');
+	src: url('u.eot?#iefix') format('embedded-opentype'),
+		url('u.woff') format('woff'),
+		url('u.ttf') format('truetype'),
+		url('u.svg#UniversCondensedMedium') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
